@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>두 개의 메뉴</title>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="#">메뉴 1</a></li>
+			<li><a href="#">메뉴 2</a></li>
+		</ul>
+	</nav>
+	<main>
+		<h1>메뉴 1</h1>
+		<p>이곳은 메뉴 1의 내용입니다.</p>
+	</main>
+</body>
+</html>
